@@ -1,7 +1,7 @@
 # Tip Calculator
 
-### Lift State Up
-### Derive State
+### Lifting State Up
+### Derived State
 
 ## Getting Started
 
